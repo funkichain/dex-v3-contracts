@@ -1,4 +1,4 @@
-# Uniswap V3 Monorepo
+# Uniswap V3 Smart Contracts Monorepo
 
 This repository contains the core smart contracts and periphery tools for Uniswap V3, including staking and swap router functionalities.
 
